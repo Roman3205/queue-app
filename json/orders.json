@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "6468c8b8d337a780239dd03d"
+  },
+  "desk": 1,
+  "ticket": 2,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:48.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:48.598Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8b8d337a780239dd03f"
+  },
+  "desk": 1,
+  "ticket": 3,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:48.766Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:48.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8bad337a780239dd041"
+  },
+  "desk": 2,
+  "ticket": 4,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:50.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:50.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8bad337a780239dd043"
+  },
+  "desk": 2,
+  "ticket": 5,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:50.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:50.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8bbd337a780239dd045"
+  },
+  "desk": 1,
+  "ticket": 6,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:51.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:51.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8bbd337a780239dd047"
+  },
+  "desk": 1,
+  "ticket": 7,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:18:51.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:18:51.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8eb85de4c1c6812c73d"
+  },
+  "desk": 1,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:19:39.929Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:19:39.929Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8ed85de4c1c6812c73f"
+  },
+  "desk": 1,
+  "ticket": 2,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:19:41.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:19:41.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8ef85de4c1c6812c741"
+  },
+  "desk": 2,
+  "ticket": 3,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:19:43.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:19:43.565Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468c8f185de4c1c6812c743"
+  },
+  "desk": 3,
+  "ticket": 4,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:19:45.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:19:45.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca34dd53b591fab86ce6"
+  },
+  "desk": 1,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:08.945Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:08.945Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca36dd53b591fab86ce8"
+  },
+  "desk": 2,
+  "ticket": 2,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:10.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:10.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca38dd53b591fab86cea"
+  },
+  "desk": 1,
+  "ticket": 3,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:12.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:12.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca3cdd53b591fab86cec"
+  },
+  "desk": 1,
+  "ticket": 4,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:16.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:16.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca3cdd53b591fab86cee"
+  },
+  "desk": 1,
+  "ticket": 5,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:16.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:16.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca3edd53b591fab86cf0"
+  },
+  "desk": 3,
+  "ticket": 6,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:18.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:18.013Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca3edd53b591fab86cf2"
+  },
+  "desk": 3,
+  "ticket": 7,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:18.301Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:18.301Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca3edd53b591fab86cf4"
+  },
+  "desk": 3,
+  "ticket": 8,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:18.493Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:18.493Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468ca40dd53b591fab86cf6"
+  },
+  "desk": 2,
+  "ticket": 9,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:25:20.934Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:25:20.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468cc6e761c5cbe1169e292"
+  },
+  "desk": 1,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:34:38.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:34:38.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468cec12796b3e756be4611"
+  },
+  "desk": 1,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:44:33.157Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:44:33.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468cf3ad249c32da839999f"
+  },
+  "desk": 2,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:46:34.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:46:34.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468d10bbdf3b7f5bb2fa103"
+  },
+  "desk": 1,
+  "ticket": 1,
+  "status": 2,
+  "createdAt": {
+    "$date": "2023-05-20T13:54:19.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T13:54:19.509Z"
+  },
+  "__v": 0
+}]
